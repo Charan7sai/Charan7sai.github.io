@@ -4,7 +4,7 @@ Machine learning & data science engineer · Student · Ongole, India
 
 Personal portfolio website. A single static page (`index.html`) with no build step and no dependencies apart from the EB Garamond web font.
 
-- **Live site:** https://charan7sai.github.io
+- **Live site:** https://charan7sai.github.io/portfolio/
 - **Run locally:** open `index.html` in a browser, or run `python -m http.server 8124` in this folder and visit http://localhost:8124
 
 ---
